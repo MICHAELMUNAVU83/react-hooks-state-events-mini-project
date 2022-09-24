@@ -1,4 +1,4 @@
-export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
+export const CATEGORIES = ["All", "Food", "Code", "Money", "Misc"];
 
 export const TASKS = [
   {
